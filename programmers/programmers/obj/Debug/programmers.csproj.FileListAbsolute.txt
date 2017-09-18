@@ -16,3 +16,66 @@ c:\users\孟2k\documents\visual studio 2015\Projects\programmers\programmers\obj
 c:\users\孟2k\documents\visual studio 2015\Projects\programmers\programmers\obj\Debug\programmers.Form4.resources
 c:\users\孟2k\documents\visual studio 2015\Projects\programmers\programmers\obj\Debug\programmers.Form5.resources
 C:\Users\孟2K\Documents\Visual Studio 2015\Projects\programmers\programmers\obj\Debug\programmers.mainform.resources
+<<<<<<< HEAD
+=======
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\programmers.exe.config
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\Interop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.csproj.ResolveComReference.cache
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.exe
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.pdb
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\programmers.exe
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\programmers.pdb
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Interop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.csprojResolveAssemblyReference.cache
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.Form1.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.Form2.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.Form4.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.Form5.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.mainform.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.Properties.Resources.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\obj\Debug\programmers.csproj.GenerateResource.Cache
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.UI.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.UI.GL.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.World.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\O2S.Components.PDFRender4NET.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\ZedGraph.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.UI.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.UI.GL.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\Emgu.CV.World.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统\programmers\programmers\bin\Debug\MultiMap.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\programmers.exe.config
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\Interop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.csproj.ResolveComReference.cache
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.exe
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.pdb
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\programmers.exe
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\programmers.pdb
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.UI.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.UI.GL.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.World.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\MultiMap.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\O2S.Components.PDFRender4NET.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\ZedGraph.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.UI.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.UI.GL.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Emgu.CV.World.xml
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\Interop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.csprojResolveAssemblyReference.cache
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.Form1.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.Form2.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.Form4.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.Form5.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.mainform.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.Properties.Resources.resources
+C:\SongYue\大学学习\大四暑假\阅卷系统 - 副本\programmers\programmers\obj\Debug\programmers.csproj.GenerateResource.Cache
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf

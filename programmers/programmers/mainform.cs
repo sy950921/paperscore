@@ -20,6 +20,10 @@ namespace programmers
         private void button4_Click(object sender, EventArgs e)
         {
             String str = this.dataGridView1.CurrentRow.Cells[5].Value.ToString();
+<<<<<<< HEAD
+=======
+            string filename = str.Replace(@"\", @"\\");
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
             axAcroPDF1.src = str;
         }
 
@@ -48,7 +52,11 @@ namespace programmers
 
         private void button3_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string str = @"Data Source=localhost;Initial catalog=student examination information;integrated Security=True";
+=======
+            string str = @"Data Source=.\MSSQLSERVER2012;Initial catalog=student examination information;integrated Security=True";
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
             SqlConnection conn = new SqlConnection(str);
             conn.Open();
 
@@ -65,7 +73,11 @@ namespace programmers
 
         private void button2_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string str = @"Data Source=localhost;Initial catalog=student examination information;integrated Security=True";
+=======
+            string str = @"Data Source=.\MSSQLSERVER2012;Initial catalog=student examination information;integrated Security=True";
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
             SqlConnection conn = new SqlConnection(str);
             conn.Open();
             if (dataGridView1.SelectedRows.Count != 1) return;

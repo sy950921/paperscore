@@ -20,13 +20,26 @@ namespace programmers
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             pictureBox1.Image = Image.FromFile(@"C:\Users\孟2K\Pictures\北邮.jpg");//动态添加图片  
+=======
+            //-----------------------------------------------------------------------------------------------------------------
+            //修改文件路径
+            pictureBox1.Image = Image.FromFile(@"C:\SongYue\大学学习\大四暑假\阅卷系统\北邮.jpg");//动态添加图片，改成相应路径  
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;  //是图片的大小适应控件PictureBox的大小  
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string str = @"Data Source=localhost;Initial catalog=student examination information;integrated Security=True";
+=======
+            //-------------------------------------------------------------------------------------------------------------------
+            //Data Source = localhost; Initial Catalog = cms_keleyi_com; Integrated Security = True; MultipleActiveResultSets = True
+            string str = @"Data Source=.\MSSQLSERVER2012;Initial Catalog=student examination information;Integrated Security=True; MultipleActiveResultSets = True";
+            //此处我的电脑有两个版本的SQL，给这两个数据库的登录用户名不同，因此语句里使用.\MSSQLSERVER2012，如果一个数据库就用上面注释的一行
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
             SqlConnection conn = new SqlConnection(str);
             conn.Open();
             string selectsql = "Select * from login where username = '" + textBox1.Text + "' and password='" + textBox2.Text + "'";

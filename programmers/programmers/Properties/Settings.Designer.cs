@@ -26,8 +26,13 @@ namespace programmers.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+<<<<<<< HEAD
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=localhost;Initial Catalog=\"student examination information\";Integrate" +
             "d Security=True")]
+=======
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\MSSQLSERVER2012;Initial Catalog=\"student examination information\";I" +
+            "ntegrated Security=True")]
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
         public string student_examination_informationConnectionString {
             get {
                 return ((string)(this["student_examination_informationConnectionString"]));

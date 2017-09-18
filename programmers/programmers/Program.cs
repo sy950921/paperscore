@@ -19,6 +19,7 @@ namespace programmers
             //Application.Run(new Form1());
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             //Application.Run(new mainform());
           Form1 fl = new Form1();
             fl.ShowDialog();
@@ -30,6 +31,23 @@ namespace programmers
            {
                 return;
             }
+=======
+            Application.Run(new Form5());
+
+            //正式运行时要去掉注释
+          //Form1 fl = new Form1();
+          //  fl.ShowDialog();
+          // if (fl.DialogResult == DialogResult.OK)
+          //  {
+          //     Application.Run(new mainform());
+          // }
+          //  else
+          // {
+          //      return;
+          //  }
+
+
+>>>>>>> 1922bc26acf50d440c0102bf9993a0274e62c8cf
         }
     }
 }
